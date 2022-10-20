@@ -1,5 +1,5 @@
 {
-  "name": "kaadon/authenticator_tp",
+  "name": "kaadon/authenticator",
   "type": "library",
   "description": "kaadon Authenticator for ThinkPhP",
   "keywords": [
