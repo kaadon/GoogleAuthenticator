@@ -22,7 +22,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Kaadon": "src"
+      "Kaadon\\": "src"
     },
     "files": [
       "src/helper.php"
