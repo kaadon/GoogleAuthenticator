@@ -1,0 +1,35 @@
+{
+  "name": "kaadon/authenticator_tp",
+  "type": "library",
+  "description": "kaadon Authenticator for ThinkPhP",
+  "keywords": [
+    "Google",
+    "Authenticator",
+    "thinkphp6",
+    "kaadon"
+  ],
+  "homepage": "http://developer.kaadon.com/",
+  "license": "Apache-2.0",
+  "require": {
+    "PHP": ">=7.1"
+  },
+  "authors": [
+    {
+      "name": "kaadon",
+      "email": "kaadon@foxmail.com",
+      "homepage": "https://www.kaadon.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kaadon": "src"
+    },
+    "files": [
+      "src/helper.php"
+    ]
+  },
+  "extra": {
+    "think":{
+    }
+  }
+}
